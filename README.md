@@ -2,7 +2,7 @@
 
 This project was created for an assignment of the "Database Systems II" course.
 
-We have implemented a java application connected with a MySql database (via jdbc). The application has a user friendly interface that enables the user to execute basic 
+We have implemented a Java application connected with a MySql database (via jdbc). The application has a user friendly interface that enables the user to execute basic 
 queries such as (addition, deletion, update) in order to interact with the Database. At the same time, the application executes complex queries to present several 
 statistics concerning the functionality of the liquor store(i.e. Total revenue, Top seller, Best seller product etc).
 
