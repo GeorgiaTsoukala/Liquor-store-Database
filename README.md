@@ -42,7 +42,7 @@ The application executes basic and complex queries to interact the sales databas
 - Create a folder with name "Liquor_store"
 - Right click and <open in terminal>
 - Run >> git init .
-- Run >> git clone https://github.com/DimitraPanagiotou/liquor_store
+- Run >> git clone https://github.com/GeorgiaTsoukala/Liquor-store-Database.git
 - Run main in HelloApplication from your IDE
 
 
